@@ -2,7 +2,7 @@
 ### <div align="center">Fresher || Front - End Developer </div>  
   
 
--  ⚡ Good Knowledge in HTML5, CSS3,
+-  <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>   Good Knowledge in HTML5, CSS3,
 and JavaScript.  
   
 
